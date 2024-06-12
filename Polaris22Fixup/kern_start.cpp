@@ -315,6 +315,6 @@ PluginConfiguration ADDPR(config) {
     bootargBeta,
     arrsize(bootargBeta),
     KernelVersion::Mojave,
-    KernelVersion::Sonoma,
+    KernelVersion::Sequoia,
     pluginStart
 };
